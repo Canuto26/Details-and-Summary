@@ -7,14 +7,13 @@ body{
 details{
     background: transparent;
     border: 1px solid #ddd;
-    border-bottom: none;
 }
 
-details[open]{
+/* details[open]{
     border: 1px solid #ddd;
     background-color: #555;
     font-weight: bold;
-}
+} */
 
 summary{
     background-color: transparent;
